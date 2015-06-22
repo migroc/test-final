@@ -7320,3 +7320,12 @@ button.close {
     display: none !important;
   }
 }
+
+
+/* custom css */
+
+.slider {
+  width: 100%;
+  height: 700px;
+  overflow: hidden;
+}
